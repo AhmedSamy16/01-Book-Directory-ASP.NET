@@ -11,4 +11,4 @@ PUT /:id => Will update all the information about this book.
 DELETE /:id => Will delete that book with that id.
 
 ## Tools Used
-C#, ASP.NET Core Web API, Entity Frameword, SQL Server
+C#, ASP.NET Core Web API, Entity Framework, SQL Server
